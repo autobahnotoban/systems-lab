@@ -1,1 +1,1 @@
-Solutions for chapter review questions for chapter 3 - data structures.
+Solutions for chapter review questions in chapter 3 - data structures.
