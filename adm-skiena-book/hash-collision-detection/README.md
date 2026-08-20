@@ -1,6 +1,7 @@
 Implementations of two different hashing methods for detecting hash collision:
 
---> Chaining:
+### Chaining:
+
     --> chaining.c is my implementation.
     --> chaining_clean.c is llm output for comparison.
     
@@ -11,4 +12,4 @@ Implementations of two different hashing methods for detecting hash collision:
         --> do not forget to free
         --> check for scanf errors and use %xs for valid input processing, check for out of range errors(row)
 
---> Open addressing: Linear probing,quadratic probing,double hashing
+### Open addressing: Linear probing,quadratic probing,double hashing
