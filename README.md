@@ -1,2 +1,2 @@
-Archive for keeping track of different side projects regardless of scale. 
+A collection of various side projects.
 Might include exercises from or inspired by different book contents.
